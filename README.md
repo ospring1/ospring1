@@ -14,8 +14,4 @@
 
 ## 📌 Projetos em destaque
 
-<p align="center">
-  <a href="https://github.com/ospring1/BlackDefinitiveHDPC">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ospring1&repo=BlackDefinitiveHDPC&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+- [**BlackDefinitiveHDPC**](https://github.com/ospring1/BlackDefinitiveHDPC)
